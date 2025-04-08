@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **full stack**
 
-- 👨‍💻 All of my projects are available at [mufeeza-shaikh-portfolio.netlify.app](mufeeza-shaikh-portfolio.netlify.app)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
