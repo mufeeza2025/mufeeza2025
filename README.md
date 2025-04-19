@@ -4,16 +4,17 @@
 <img align="right" alt="Coding" width="400" src="https://as1.ftcdn.net/v2/jpg/05/93/82/76/1000_F_593827677_uXCPMbS2ztblOlGRIqSklgjElMKFbNuD.jpg">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mufeeza2025&label=Profile%20views&color=0e75b6&style=flat" alt="mufeeza2025" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **share a meal smart food donation**
+👩‍💻 About Me
+<p>Hi there! I'm Mufeeza, an enthusiastic BCA undergraduate from SDM College, passionate about building creative and user-friendly web applications.
 
-- 🌱 I’m currently learning **full stack**
+🔧 I have hands-on experience with HTML, CSS, and JavaScript, and I’ve worked on a few exciting projects using these technologies. Currently, I’m diving deeper into PHP through a project I’m actively working on.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+🚀 I'm highly interested in Full Stack Development and React Native, and I’m on a journey to learn and grow in these areas. Coding is something I genuinely enjoy, and I always give my best to improve and build impactful projects.</p>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
